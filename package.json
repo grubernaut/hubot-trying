@@ -1,6 +1,6 @@
 {
   "name": "hubot-trying",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "do or do not do",
   "main": "index.js",
   "scripts": {
