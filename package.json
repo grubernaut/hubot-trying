@@ -1,8 +1,7 @@
 {
   "name": "hubot-trying",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "do or do not do",
-  "main": "index.js",
   "scripts": {
     "test": "echo lulz"
   },
