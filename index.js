@@ -5,6 +5,9 @@
 //   I think we should try to do more awesome stuff
 //   I tried that awesome thing one time
 //
+// Author:
+//   meatballhat
+//
 'use strict';
 
 var tryMessages = [
