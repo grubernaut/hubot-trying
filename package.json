@@ -1,6 +1,6 @@
 {
   "name": "hubot-trying",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "do or do not do",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/meatballhat/hubot-trying/issues"
   },
-  "homepage": "https://github.com/meatballhat/hubot-trying",
-  "dependencies": {
-    "hubot": "^2.7.2"
-  }
+  "homepage": "https://github.com/meatballhat/hubot-trying"
 }
