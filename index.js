@@ -2,8 +2,8 @@
 //   Do or do not do.
 //
 // Commands:
-//   I think we should try to do more awesome stuff
-//   I tried that awesome thing one time
+//   try to do awesome things - get a helpful hint
+//   we tried that - get more helpful hints
 //
 // Author:
 //   meatballhat
