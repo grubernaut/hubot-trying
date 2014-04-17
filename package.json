@@ -1,6 +1,6 @@
 {
   "name": "hubot-trying",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "do or do not do",
   "scripts": {
     "test": "echo lulz"
