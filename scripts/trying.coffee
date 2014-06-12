@@ -30,6 +30,12 @@ triedMessages = [
   'tell me more about your pain',
   'at least you have this moment of regret'
 ]
+giveUpMessages = [
+  'just rebase the whole repo.',
+  'why did you even try...',
+  'Never give up, Never fail',
+  'You are professional. Always'
+]
 
 module.exports = (robot) ->
   robot.hear /\btry(\b|[[:punct:]])/i, (msg) ->
@@ -37,3 +43,7 @@ module.exports = (robot) ->
 
   robot.hear /\btried(\b|[[:punct:]])/i, (msg) ->
     msg.send msg.random(triedMessages)
+
+  robot.hear /\bgive\s*up(\b|[[:punct:]]/i, (msg) ->
+    msg.send msg.random(giveUpMessages)
+
